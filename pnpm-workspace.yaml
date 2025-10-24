@@ -11,10 +11,10 @@ catalogs:
   lint:
     '@antfu/eslint-config': ^6.0.0
     eslint: ^9.38.0
-    lint-staged: ^16.2.5
+    lint-staged: ^16.2.6
     simple-git-hooks: ^2.13.1
   test:
-    vitest: ^3.2.4
+    vitest: ^4.0.3
   tsc:
     typescript: ^5.9.3
   types:
