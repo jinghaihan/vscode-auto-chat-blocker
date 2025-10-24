@@ -2,7 +2,7 @@
   "publisher": "octohash",
   "name": "auto-chat-blocker",
   "displayName": "Auto Chat Blocker",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "private": true,
   "packageManager": "pnpm@10.15.0",
   "description": "A extension to prevent Cursor AI chat from opening automatically on launch.",
